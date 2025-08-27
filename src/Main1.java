@@ -6,6 +6,7 @@ public class Main1 {
     public static void main(String[] args) {
         System.out.println("Learning of classes and objects");
         System.out.println("basically class is a template for the object and object is the instance of the clasass");
+        System.out.println("beginning with class and objects ");
     }
 
 }
