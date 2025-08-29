@@ -15,7 +15,7 @@ public class Modifiers {
 //        accessing the public modifiers
         obj.name="ziaurrehman";
 //        we can get thw access of private variable
-        obj.age=77;
+//        obj.age=77;
 
         System.out.println(obj.name);
 //        accessing the private variable
